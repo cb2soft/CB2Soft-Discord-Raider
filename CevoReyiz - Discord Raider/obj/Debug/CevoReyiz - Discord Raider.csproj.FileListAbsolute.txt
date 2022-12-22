@@ -1,0 +1,19 @@
+C:\Users\cevat.bayraktaroglu\Desktop\CheatsGate-Discord-Raider-master - Kopya\CheatsGate - Discord Raider\bin\Debug\CevoReyiz - Discord Raider.exe.config
+C:\Users\cevat.bayraktaroglu\Desktop\CheatsGate-Discord-Raider-master - Kopya\CheatsGate - Discord Raider\bin\Debug\CevoReyiz - Discord Raider.exe
+C:\Users\cevat.bayraktaroglu\Desktop\CheatsGate-Discord-Raider-master - Kopya\CheatsGate - Discord Raider\bin\Debug\CevoReyiz - Discord Raider.pdb
+C:\Users\cevat.bayraktaroglu\Desktop\CheatsGate-Discord-Raider-master - Kopya\CheatsGate - Discord Raider\bin\Debug\MaterialSkin.dll
+C:\Users\cevat.bayraktaroglu\Desktop\CheatsGate-Discord-Raider-master - Kopya\CheatsGate - Discord Raider\bin\Debug\MetroFramework.Design.dll
+C:\Users\cevat.bayraktaroglu\Desktop\CheatsGate-Discord-Raider-master - Kopya\CheatsGate - Discord Raider\bin\Debug\MetroFramework.dll
+C:\Users\cevat.bayraktaroglu\Desktop\CheatsGate-Discord-Raider-master - Kopya\CheatsGate - Discord Raider\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\cevat.bayraktaroglu\Desktop\CheatsGate-Discord-Raider-master - Kopya\CheatsGate - Discord Raider\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cevat.bayraktaroglu\Desktop\CheatsGate-Discord-Raider-master - Kopya\CheatsGate - Discord Raider\bin\Debug\MaterialSkin.pdb
+C:\Users\cevat.bayraktaroglu\Desktop\CheatsGate-Discord-Raider-master - Kopya\CheatsGate - Discord Raider\obj\Debug\CevoReyiz - Discord Raider.csprojAssemblyReference.cache
+C:\Users\cevat.bayraktaroglu\Desktop\CheatsGate-Discord-Raider-master - Kopya\CheatsGate - Discord Raider\obj\Debug\CevoReyiz___Discord_Raider.Properties.Resources.resources
+C:\Users\cevat.bayraktaroglu\Desktop\CheatsGate-Discord-Raider-master - Kopya\CheatsGate - Discord Raider\obj\Debug\CevoReyiz - Discord Raider.csproj.GenerateResource.cache
+C:\Users\cevat.bayraktaroglu\Desktop\CheatsGate-Discord-Raider-master - Kopya\CheatsGate - Discord Raider\obj\Debug\CevoReyiz - Discord Raider.csproj.CoreCompileInputs.cache
+C:\Users\cevat.bayraktaroglu\Desktop\CheatsGate-Discord-Raider-master - Kopya\CheatsGate - Discord Raider\obj\Debug\CevoReyiz - Discord Raider.csproj.CopyComplete
+C:\Users\cevat.bayraktaroglu\Desktop\CheatsGate-Discord-Raider-master - Kopya\CheatsGate - Discord Raider\obj\Debug\CevoReyiz - Discord Raider.exe
+C:\Users\cevat.bayraktaroglu\Desktop\CheatsGate-Discord-Raider-master - Kopya\CheatsGate - Discord Raider\obj\Debug\CevoReyiz - Discord Raider.pdb
+C:\Users\cevat.bayraktaroglu\Desktop\CheatsGate-Discord-Raider-master - Kopya\CheatsGate - Discord Raider\obj\Debug\CevoReyiz___Discord_Raider.AvatarForm.resources
+C:\Users\cevat.bayraktaroglu\Desktop\CheatsGate-Discord-Raider-master - Kopya\CheatsGate - Discord Raider\obj\Debug\CevoReyiz___Discord_Raider.Raider.resources
+C:\Users\cevat.bayraktaroglu\Desktop\CheatsGate-Discord-Raider-master - Kopya\CheatsGate - Discord Raider\obj\Debug\CevoReyiz___Discord_Raider.ReactionForm.resources

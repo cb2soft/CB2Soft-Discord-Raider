@@ -1,0 +1,17 @@
+C:\Users\cevat.bayraktaroglu\Desktop\CheatsGate-Discord-Raider-master\CheatsGate - Discord Raider\obj\Debug\CheatsGate - Discord Raider.csprojAssemblyReference.cache
+C:\Users\cevat.bayraktaroglu\Desktop\CheatsGate-Discord-Raider-master\CheatsGate - Discord Raider\obj\Debug\CheatsGate___Discord_Raider.Properties.Resources.resources
+C:\Users\cevat.bayraktaroglu\Desktop\CheatsGate-Discord-Raider-master\CheatsGate - Discord Raider\obj\Debug\CheatsGate___Discord_Raider.Raider.resources
+C:\Users\cevat.bayraktaroglu\Desktop\CheatsGate-Discord-Raider-master\CheatsGate - Discord Raider\obj\Debug\CheatsGate - Discord Raider.csproj.GenerateResource.cache
+C:\Users\cevat.bayraktaroglu\Desktop\CheatsGate-Discord-Raider-master\CheatsGate - Discord Raider\obj\Debug\CheatsGate - Discord Raider.csproj.CoreCompileInputs.cache
+C:\Users\cevat.bayraktaroglu\Desktop\CheatsGate-Discord-Raider-master\CheatsGate - Discord Raider\bin\Debug\CheatsGate - Discord Raider.exe.config
+C:\Users\cevat.bayraktaroglu\Desktop\CheatsGate-Discord-Raider-master\CheatsGate - Discord Raider\bin\Debug\CheatsGate - Discord Raider.exe
+C:\Users\cevat.bayraktaroglu\Desktop\CheatsGate-Discord-Raider-master\CheatsGate - Discord Raider\bin\Debug\CheatsGate - Discord Raider.pdb
+C:\Users\cevat.bayraktaroglu\Desktop\CheatsGate-Discord-Raider-master\CheatsGate - Discord Raider\bin\Debug\MaterialSkin.dll
+C:\Users\cevat.bayraktaroglu\Desktop\CheatsGate-Discord-Raider-master\CheatsGate - Discord Raider\bin\Debug\MetroFramework.Design.dll
+C:\Users\cevat.bayraktaroglu\Desktop\CheatsGate-Discord-Raider-master\CheatsGate - Discord Raider\bin\Debug\MetroFramework.dll
+C:\Users\cevat.bayraktaroglu\Desktop\CheatsGate-Discord-Raider-master\CheatsGate - Discord Raider\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\cevat.bayraktaroglu\Desktop\CheatsGate-Discord-Raider-master\CheatsGate - Discord Raider\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cevat.bayraktaroglu\Desktop\CheatsGate-Discord-Raider-master\CheatsGate - Discord Raider\bin\Debug\MaterialSkin.pdb
+C:\Users\cevat.bayraktaroglu\Desktop\CheatsGate-Discord-Raider-master\CheatsGate - Discord Raider\obj\Debug\CheatsGate - Discord Raider.csproj.CopyComplete
+C:\Users\cevat.bayraktaroglu\Desktop\CheatsGate-Discord-Raider-master\CheatsGate - Discord Raider\obj\Debug\CheatsGate - Discord Raider.exe
+C:\Users\cevat.bayraktaroglu\Desktop\CheatsGate-Discord-Raider-master\CheatsGate - Discord Raider\obj\Debug\CheatsGate - Discord Raider.pdb
